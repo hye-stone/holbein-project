@@ -1,2 +1,2 @@
 # holbein-project
-Demo: https://holbein-project.netlify.app
+Demo: https://hye-stone.github.io/holbein-project/
